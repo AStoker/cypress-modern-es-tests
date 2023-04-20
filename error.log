@@ -1,0 +1,7 @@
+
+ >  NX   Unable to resolve @nrwl/nx-cloud:init.
+
+   ENOENT: no such file or directory, open 'C:\Projects\Personal\nrwl-tests\modern-es-tests\node_modules\@nrwl\nx-cloud\nx-cloud\lib\generators\init\schema.json'
+   Pass --verbose to see the stacktrace.
+
+
